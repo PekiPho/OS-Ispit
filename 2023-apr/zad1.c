@@ -54,8 +54,8 @@ int main(int argc,char *argv[]){
         sum+=buff[i];
     }
 
-    if(sum>=2000) printf("Suma veca %d % d \n",buff[0],buff[9]);
-    else printf("Suma manja %d %d \n",buff[0],buff[9]);
+    if(sum>=2000) printf("Suma veca %d\n",sum);
+    else printf("Suma manja %d \n",sum);
 
     j++;
     }
