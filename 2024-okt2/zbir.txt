@@ -1,0 +1,14 @@
+fajl1.txt 1: a
+fajl2.txt 1: z
+fajl1.txt 2: b
+fajl2.txt 2: x
+fajl1.txt 3: c
+fajl2.txt 3: c
+fajl1.txt 4: d
+fajl2.txt 4: v
+fajl1.txt 5: e
+fajl2.txt 5: b
+fajl1.txt 6: f
+fajl2.txt 6: n
+fajl1.txt 7: 
+fajl2.txt 7: 
